@@ -30,20 +30,20 @@ Final Viedo：
 
 ## Design
 
+## Open “Black Box”
 
 ##  Working Process
 
 ### Sketch
-### Circuit & Code Testing
+### Arduino & Circuit
 ### Challenge
 ### Laser Cutting
+### Touch Designer & Code Testing
 ### Appearance & Content Setting
 
-## Achievement
+## Optimize
 
-## Evaluation
-### Interview
-### Test Result
+## Discussion
 ### Update & Future Work
 
-## Summary
+## Achievement
