@@ -125,6 +125,20 @@ Interestingly, a small number of people in this sample did not show a clear dist
 
 ## Concept
 
+Combined with the failure of the previous attempt at Deep Dream, I realized that I needed to package this Stupid AI from the perspective of People's Daily behaviour and simplicity in order to make people have a deeper feeling for the idea I wanted to convey after the experience. In addition, I got new inspiration from my research on people with color blindness. 
+
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/18.png" width="700" height="320">
+</div> 
+For birds with four-color vision in nature, perhaps humans are color-blind in their eyes. But because people live in a cocoon world of self-definition, there are no new perceptions or inconveniences. "So can cognitive switching take people out of their information cocoons?" This is what I hope to learn by letting people explore the Stupid AI I made.
+
+So I was inspired by color-corrected eyes made for people with color blindness. I want to help people see some of the possibilities of the unknown world from the "blind" - to open the black box. And as people explore these things, they may also realize that those imperfilities may be an opportunity for creativity and an escape from the cocoon.
+
+              
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/15.png" width="700" height="260">
+</div> 
+
 
 ## Design
 
