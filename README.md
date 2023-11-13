@@ -64,6 +64,10 @@ One interesting idea I've come across while exploring how people shift their per
 > but he called blue "green". So neither he nor anyone else knows the difference between him and anyone else.
 > 
 > So how do you tell the difference?  How do you prove that you don't have the disease？
+This particular point got me thinking. Through a search, I found that this argument appeared early in the argument for the existence of "Qualia". The independent existence and uniqueness of the subjective conscious experience is demonstrated in both John Locke's inverting the colour spectrum thought experiment and Frank Jackson's thought experiment. What intrigues me most is that we can never really experience how blue looks to other people and how blue looks to us. So I continued my research based on this paradox of color vision.
+### About Color Blindness
+
+
 
 
 
