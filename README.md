@@ -87,6 +87,10 @@ But it was interesting to see in the forum posts of people with color blindness 
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/6.png" width="600" height="280">
 </div>
 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/12.png" width="800" height="280">
+</div>
+
 
 #### Connection
 > When I asked the most popular AI at the moment - Chat GPT, what do you think is Stupid AI? Its answer shocked me, I didn't expect AI to blame humans. It believes that
@@ -107,11 +111,16 @@ I brainstorm about Stupid AI and the social status of people with color blindnes
 ## Interview
 Based on the above thinking, I conducted a questionnaire survey and test on people's social cognition.
 <div align=center>
-<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/WechatIMG944.jpg" width="980" height="320">
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/WechatIMG944.jpg" width="780" height="250">
 </div> 
 
+> I randomly selected 20 samples of normal people through questionnaires for investigation. Questionnaires were used to investigate their views on blind people and then coloring games were performed one by one.
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/WechatIMG945.jpg" width="700" height="320">
+</div> 
 
-
+ 
+Interestingly, a small number of people in this sample did not show a clear distinction between the colorblind group and their artistic ability in the questionnaire, and also gave special results in the coloring game. In my conversations, I found that most of the people who gave these special results were also willing to experience the blind perspective. Some people even discussed with me that maybe the colorblind can create artistic ideas that are difficult for normal people to achieve. It made me realize that changing the perspective to look at those differences could be a new source of creativity.
 
 
 ## Concept
