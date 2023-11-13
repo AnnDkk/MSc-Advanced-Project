@@ -57,6 +57,13 @@ However, what I want to explore through user testing is the understanding of whe
 In fact, neural networks are complex if we talk about this huge technology. Especially when it is defined in a whole new realm, it can perform many human-like and even superhuman behaviours. But it is under this mask of perfection that people are afraid to explore AI. Gradually, there is an idea-creation process where technology can reach but there is no innovation. So I realized through initial experimentation that maybe I should help open up this scary "black box" for experiencers, so that people are not afraid to explore and not trapped in the definition of the program given by the creators of the technology. It's about daring to see what's different and even silly under the mask of perfection.
 
 ## Expanding
+One interesting idea I've come across while exploring how people shift their perspective is “the colour blindness paradox” .
+#### The color blindness paradox
+> There is a man, who has a strange kind of colour blindness. He sees the two colours differently from others. He sees blue as green and green as blue. But he does not know
+> that he is different from others, others see the sky as blue, he sees the green, but he and others are called the same, are "blue"; The grass is green, he saw is blue,
+> but he called blue "green". So neither he nor anyone else knows the difference between him and anyone else.
+> 
+> So how do you tell the difference?  How do you prove that you don't have the disease？
 
 
 
