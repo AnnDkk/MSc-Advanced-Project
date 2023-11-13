@@ -64,11 +64,34 @@ One interesting idea I've come across while exploring how people shift their per
 > but he called blue "green". So neither he nor anyone else knows the difference between him and anyone else.
 > 
 > So how do you tell the difference?  How do you prove that you don't have the disease？
+
 This particular point got me thinking. Through a search, I found that this argument appeared early in the argument for the existence of "Qualia". The independent existence and uniqueness of the subjective conscious experience is demonstrated in both John Locke's inverting the colour spectrum thought experiment and Frank Jackson's thought experiment. What intrigues me most is that we can never really experience how blue looks to other people and how blue looks to us. So I continued my research based on this paradox of color vision.
-### About Color Blindness
+
+#### About Color Blindness
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/5.png" width="550" height="280">
+</div>
+
+Based on the above theory, I carried out research on this kind of group. I have found that most people with color blindness (except for those with total color blindness) do not know they have it until they have a later medical test. And most patients with color blindness show that the disease does not completely affect their normal life after social training. As a result, many people may not even know they are color blindness. 
+
+But it was interesting to see in the forum posts of people with color blindness their interpretation of some of the social care and definitions. They regard the excessive care expressed by most normal people as a form of "discrimination" and deny that the world they see is beautiful.
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/6.png" width="600" height="280">
+</div>
 
 
+#### Connection
+> When I asked the most popular AI at the moment - Chat GPT, what do you think is Stupid AI? Its answer shocked me, I didn't expect AI to blame humans. It believes that
+> this stupidity is caused by the human inability to control and make mistakes with technology and code.
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/7.png" width="600" height="280">
+</div> 
+</div> 
 
+
+As we know, behind every machine and AI is a data set formed by the people who control them and form its network architecture, recognize information and give feedback. So all questions have a standard answer for AI as long as they exist in its database. This is also the epitome of a malformed phenomenon in modern society under the development of technology. People are stubbornly pursuing the "perfect", "good" and "normal" considered by the majority group, so as to exclude those small groups. The perfect AI, which is perfectly packaged under the smart mask, has chosen by people to a large extent in advance, but people are trapped in this information cocoon room without knowing it. It is like if a person who is not color blind has defined the colour blind as abnormal, then he will forever reject to be a color blind, forever refusing to accept that the color blind world is also beautiful. The formation of information cocoon is tantamount to homogenizing people's "sensibility". But is the original meaning of "definition" to distinguish between normal and abnormal? Or do they let people know about individual differences? If the difference is constantly abandoned and excluded, then what is creation?
+
+I brainstorm about Stupid AI and the social status of people with color blindness
 
 
 ## Interview
