@@ -106,6 +106,9 @@ I brainstorm about Stupid AI and the social status of people with color blindnes
 
 ## Interview
 Based on the above thinking, I conducted a questionnaire survey and test on people's social cognition.
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/WechatIMG944.jpg" width="980" height="320">
+</div> 
 
 
 
