@@ -39,9 +39,14 @@ By modifying the recognition range of the noise map and the accuracy of the iter
 > dream_img = render_deepdream(dream_model,img,steps=100,step_size=0.01)
 
 <div align=center>
+<img src="https://github.com/AnnDkk/Coding3----Final-Project/blob/main/C3image/2.png" width="800" height="350">
+</div> 
+
+### The First Try
+
+<div align=center>
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/4.png" width="700" height="500">
 </div>
-
 
 In order to reduce the effect of special layers overwriting the input image, I chose the most suitable starting point for the range of the generated image - Octave_scale values. So that the input image can produce the effect of a childhood toy - kaleidograph after passing through the selected channel.
 
@@ -50,6 +55,9 @@ In order to reduce the effect of special layers overwriting the input image, I c
 </div>
 
 Experientialists can choose different channels as filter effects according to the pictures they choose, and then create their own electronic kaleidograph.
+> Generated results
+> URL: https://colab.research.google.com/drive/1in-DDdF16WzmHUhmmtnaedY4hs2henkK#scrollTo=zE77ZZiAex0I
+
 
 ### Problem
 However, what I want to explore through user testing is the understanding of when people use these imperfect and even stupid AI and the research and inspiration of their creative process. Almost all testers focus more on how powerful the technology is to perform the effect.They couldn't believe the stupidity of the complex technology that created it.
@@ -97,6 +105,10 @@ I brainstorm about Stupid AI and the social status of people with color blindnes
 </div> 
 
 ## Interview
+Based on the above thinking, I conducted a questionnaire survey and test on people's social cognition.
+
+
+
 
 
 ## Concept
