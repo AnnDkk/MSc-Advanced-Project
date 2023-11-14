@@ -199,15 +199,18 @@ However, there is a lack of a complete exploration process for the experiencer o
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/IMG_2226.jpg" width="800" height="280">
 </div> 
 
-> People first use their smartphones to explore hidden NFC chips on white walls to get game introductions and clues. Then people went to the color board and scanned the NFC chip hidden in the color block by answering the question in color, and got the clue of the next step. People then experience the installation and make new artistic creations on it. Through the introduction of NFC chips, we will gradually understand the folly and imperfection of this perfectly packaged AI. But there can still be new creativity when people switch definitions and get good at using them. So at the end of the game I tried to compare people to the previous colouring game to see how good the experience was.
+> People initially use their smartphones to explore hidden NFC chips on white walls, obtaining game introductions and clues. Next, participants move to a color board where they scan NFC chips concealed within color blocks by answering questions related to colors, revealing clues for the next step. Subsequently, individuals engage in the installation experience, creating new artistic expressions.
+Through the NFC chip-guided journey, participants gradually uncover the folly and imperfections behind the perfectly packaged AI. However, as individuals redefine concepts and become adept at using them, new creative possibilities emerge. In the concluding stages of the game, the aim is to compare participants' experiences with the previous coloring game, assessing whether there is a newfound creative understanding.
 
 ### Sketch
-I first designed from the main body of the device, the "smart eye". In order to construct the main body modelling and internal light box structure of the intelligent eye. Firstly, I used modelling software to create the main body appearance according to the sketch. Especially, details such as the fusion of the eyeball part and the lightbox and the pupil depth need to be considered when the model is pinching. Considering the curvature and envelopment of the eyelid in the creation, it is necessary to fit the eyeball, but the blink effect needs to be added to the gap later. Therefore, I created a solid grass model to simulate the structure of the eyelid. So that I can choose appropriate materials and more suitable structural modeling.
+I began the design process by focusing on the central component of the device – the "smart eye." To construct the main body and the internal lightbox structure of this intelligent eye, I utilized modeling software to bring the initial sketch to life. Paying meticulous attention to details such as the integration of the eyeball section with the lightbox and the depth of the pupil during the modeling process was crucial. Additionally, as I sculpted the model, I took into consideration the curvature and contour of the eyelid to ensure a seamless fit for the eyeball. To enhance the realism, I later incorporated a blink effect into the gap. In order to address the intricacies of the eyelid, I opted to create a solid grass model to simulate its structure. This step allowed me to evaluate different materials and refine the structural modeling for optimal results.
 
 </div> 
 <div align=center>
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/25.png" width="800" height="230">
 </div> 
+
+
 
 
 ### Arduino & Circuit
