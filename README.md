@@ -146,13 +146,22 @@ So I was inspired by color-corrected eyes made for people with color blindness. 
 <div align=center>
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/mind%20_%E7%94%BB%E6%9D%BF%201.png" width="720" height="380">
 </div> 
-I rearranged my thinking based on the previous research. Inspired by the color blindness paradox, I decided to make a "blind eye" as my "Stupid AI". I also used a clever method to make a humanoid eye machine. It really doesn’t use Ai technology, it just cleverly uses methods that people don’t value in everyday life. But it allowed participants to create random art.
-> 
+I rearranged my thinking based on the previous research. Inspired by the color blindness paradox, I decided to make a "SMART eye" as my "Stupid AI". I also used a clever method to make a humanoid eye machine. It really doesn’t use Ai technology, it just cleverly uses methods that people don’t value in everyday life. But it allowed participants to create random art.
+
+> The principle of polarizer: Polarizer has the function of shielding and transmitting the incident light, which can transform the sunlight into polarized light. The light source can be filtered through the metal wire grid in its sheet.
               
 <div align=center>
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/16.png" width="720" height="200">
 </div> 
+</div> 
 
+I use the peculiarities of polarized light to simulate the colors seen by a four-color vision creature in the "smart eye." Through the full spectrum light simulation of the sun, and then through the polarizer filter can be filtered light color display on the plastic items. The experiencers need to simulate the color-blind perspective to explore how this phenomenon packaged as perfect AI comes into being. Finally, the experiencers need to create their own art with tape and transparent pvc sheets from the perspective of color blindness. Put it in the "smart eye" and you can see the unique effect.
+ 
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/17.png" width="720" height="300">
+</div> 
 
 ## Open “Black Box”
 
