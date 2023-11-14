@@ -185,6 +185,21 @@ Based on this work, I enriched my project content. An iPod that can't display co
 
 ##  Working Process
 
+Combining all the concepts and research, I perfected the whole device. Through the "smart eye" people will see the diversity of things and new perspectives, perhaps imperfect is the beginning of a kind of innovation. Smart eyes are linked to smart brains. When people have eyes that can see, the ideas and ideas of the brain will also change. With the exploration of "opening the black box" again and again (special magnifying glass), the experiencer will visually see the change of the "intelligent creative brain". The whole device also reflects the cooperation of people's eyes and brains with machines, artificial intelligence and other technologies in the innovation process.
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/22.png" width="520" height="180">
+</div> 
+
+However, there is a lack of a complete exploration process for the experiencer of the device. I just wanted people to explore the device through spontaneity, rather than studying an instruction book through a text reading item. This still seems like a disguised definition of the idea. I hope to let users experience this device in an exploratory way, and perhaps their combination will bring me new surprises. Therefore, I designed a set of experience sessions for this device and placed it in an exploratory game to design.
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/IMG_2226.jpg" width="800" height="280">
+</div> 
+
+
 ### Sketch
 ### Arduino & Circuit
 ### Challenge
