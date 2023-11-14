@@ -210,6 +210,25 @@ I began the design process by focusing on the central component of the device â€
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/25.png" width="800" height="230">
 </div> 
 
+</div> 
+
+Following the model, I initiated the design of the overall structure of the lightbox. My aim was to create a space that could be opened and closed while remaining completely shaded, facilitating easy access for debugging internal components such as lights and wheel polarizers. To achieve this, I deconstructed the model's structure through stereo sketching. Additionally, I addressed the challenge of installing the steering gear to incorporate the blink effect, ensuring proper alignment with the curvature of the eyeball, and determining a secure method for fixing the steering gear in place.
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/23.png" width="800" height="250">
+</div> 
+
+
+
+I subsequently crafted a more precise prototype of the lightbox, incorporating polarizers and lights to simulate the intended effect.
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/26.png" width="550" height="350">
+</div> 
+
+> Samples were created by randomly winding PVC sheets using Scotch tape. These samples were then placed in the eye through a polarizer and light to observe the creation of stunning color art.
 
 
 
