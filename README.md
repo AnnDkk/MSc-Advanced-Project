@@ -13,14 +13,15 @@ The goal is for participants to realize that the ingrained notion of blindly pur
 </div>
 
 ## Inspiration
-In my coding3 extension of machine learning research, I found a model called Deep Dream that cleverly uses a machine learning "mistake" - overprocessing discriminative features. Traditional deep learning uses gradient descent to minimize loss. However, the model uses the principle of gradient ascent to process images. It tries to intuitively express the characteristics and style of the picture seen by the machine at each level by increasing the activation value to maximize the expression of the identified single feature.
+In my Coding3 extension of machine learning research, I encountered a model known as Deep Dream that ingeniously leverages a machine learning "mistake" – the overprocessing of discriminative features. While traditional deep learning employs gradient descent to minimize loss, this model adopts the principle of gradient ascent for image processing. It intuitively aims to articulate the characteristics and style of the image perceived by the machine at each level. This is achieved by incrementing the activation value to maximize the expression of the identified single feature.
 
 <div align=center>
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/1.png" width="700" height="250">
 </div>
 
-The creators explored the "stupidity" of neural networks, where excessive recognition and learning allowed each layer to emerge with its own properties. They took this property and used it to process images, abstracting them to form completely new things in images.
-With technical iterations, it is even possible to use random noisy images to show the purely "creative" results of neural networks.
+The creators delved into the "stupidity" of neural networks, where extensive recognition and learning led each layer to develop its distinct properties. Harnessing this characteristic, they applied it to image processing, abstracting images to generate entirely new concepts.
+Through successive technical iterations, it became feasible to utilize random noisy images to showcase the purely "creative" outcomes produced by neural networks.
+
 </div> 
 
 <div align=center>
@@ -63,7 +64,7 @@ Experientialists can choose different channels as filter effects according to th
 
 ### Problem
 However, what I want to explore through user testing is the understanding of when people use these imperfect and even stupid AI and the research and inspiration of their creative process. Almost all testers focus more on how powerful the technology is to perform the effect.They couldn't believe the stupidity of the complex technology that created it.
-</div>
+
 In fact, neural networks are complex if we talk about this huge technology. Especially when it is defined in a whole new realm, it can perform many human-like and even superhuman behaviours. But it is under this mask of perfection that people are afraid to explore AI. Gradually, there is an idea-creation process where technology can reach but there is no innovation. So I realized through initial experimentation that maybe I should help open up this scary "black box" for experiencers, so that people are not afraid to explore and not trapped in the definition of the program given by the creators of the technology. It's about daring to see what's different and even silly under the mask of perfection.
 
 ## Expanding
@@ -103,9 +104,12 @@ But it was interesting to see in the forum posts of people with color blindness 
 </div> 
 
 
-As we know, behind every machine and AI is a data set formed by the people who control them and form its network architecture, recognize information and give feedback. So all questions have a standard answer for AI as long as they exist in its database. This is also the epitome of a malformed phenomenon in modern society under the development of technology. People are stubbornly pursuing the "perfect", "good" and "normal" considered by the majority group, so as to exclude those small groups. The perfect AI, which is perfectly packaged under the smart mask, has chosen by people to a large extent in advance, but people are trapped in this information cocoon room without knowing it. It is like if a person who is not color blind has defined the colour blind as abnormal, then he will forever reject to be a color blind, forever refusing to accept that the color blind world is also beautiful. The formation of information cocoon is tantamount to homogenizing people's "sensibility". But is the original meaning of "definition" to distinguish between normal and abnormal? Or do they let people know about individual differences? If the difference is constantly abandoned and excluded, then what is creation?
+As we are aware, behind every machine and AI lies a dataset shaped by the individuals who control and formulate their network architecture, recognize information, and provide feedback. Consequently, every question posed to AI has a standard answer as long as it exists in its database. This phenomenon reflects a distortion in modern society's development under the influence of technology. Society often persistently pursues the ideals of "perfect," "good," and "normal" as defined by the majority, leading to the exclusion of smaller groups.
+The perfectly packaged AI, concealed beneath a smart mask, is largely predetermined by societal preferences. Yet, people unknowingly find themselves ensnared in an information cocoon. It's akin to someone without colour blindness defining colour blindness as abnormal, leading to a perpetual rejection of being color blind and an unwillingness to appreciate the beauty of a colour-blind world.
 
-I brainstorm about Stupid AI and the social status of people with color blindness.
+The creation of information cocoons essentially homogenizes people's "Qualia." However, does the original purpose of "definition" lie in distinguishing between normal and abnormal, or is it meant to acquaint individuals with their differences? If differences are persistently discarded and excluded, what room is left for creativity?
+
+I brainstormed about Stupid AI and the social status of people with colour blindness.
 <div align=center>
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/8.jpg" width="600" height="280">
 </div> 
@@ -132,9 +136,10 @@ Combined with the failure of the previous attempt at Deep Dream, I realized that
 <div align=center>
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/18.png" width="700" height="320">
 </div> 
-For birds with four-color vision in nature, perhaps humans are color-blind in their eyes. But because people live in a cocoon world of self-definition, there are no new perceptions or inconveniences. "So can cognitive switching take people out of their information cocoons?" This is what I hope to learn by letting people explore the Stupid AI I made.
 
-So I was inspired by color-corrected eyes made for people with color blindness. I want to help people see some of the possibilities of the unknown world from the "blind" - to open the black box. And as people explore these things, they may also realize that those imperfilities may be an opportunity for creativity and an escape from the cocoon.
+In nature, birds with four-color vision might perceive humans as color-blind. However, due to living within a self-defined cocoon world, humans may experience a lack of new perceptions or inconveniences. The question arises: "Can cognitive switching extricate people from their information cocoons?" This is a query I aim to address by encouraging individuals to explore the Stupid AI I've created.
+
+Drawing inspiration from color-corrected eyes designed for individuals with color blindness, I aspire to assist people in glimpsing possibilities within the unknown – to unveil the contents of the "blind" and open the black box. As individuals embark on this exploration, they may come to realize that imperfections can be wellsprings of creativity and pathways to escape from the cocoon.
 
               
 <div align=center>
