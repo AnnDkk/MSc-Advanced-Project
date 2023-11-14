@@ -146,8 +146,12 @@ So I was inspired by color-corrected eyes made for people with color blindness. 
 <div align=center>
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/mind%20_%E7%94%BB%E6%9D%BF%201.png" width="720" height="380">
 </div> 
-
-
+I rearranged my thinking based on the previous research. Inspired by the color blindness paradox, I decided to make a "blind eye" as my "Stupid AI". I also used a clever method to make a humanoid eye machine. It really doesn’t use Ai technology, it just cleverly uses methods that people don’t value in everyday life. But it allowed participants to create random art.
+> 
+              
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/16.png" width="720" height="200">
+</div> 
 
 
 ## Open “Black Box”
