@@ -142,6 +142,14 @@ So I was inspired by color-corrected eyes made for people with color blindness. 
 
 ## Design
 
+              
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/mind%20_%E7%94%BB%E6%9D%BF%201.png" width="720" height="380">
+</div> 
+
+
+
+
 ## Open “Black Box”
 
 ##  Working Process
