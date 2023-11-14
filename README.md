@@ -199,6 +199,7 @@ However, there is a lack of a complete exploration process for the experiencer o
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/IMG_2226.jpg" width="800" height="280">
 </div> 
 
+> People first use their smartphones to explore hidden NFC chips on white walls to get game introductions and clues. Then people went to the color board and scanned the NFC chip hidden in the color block by answering the question in color, and got the clue of the next step. People then experience the installation and make new artistic creations on it. Through the introduction of NFC chips, we will gradually understand the folly and imperfection of this perfectly packaged AI. But there can still be new creativity when people switch definitions and get good at using them. So at the end of the game I tried to compare people to the previous colouring game to see how good the experience was.
 
 ### Sketch
 ### Arduino & Circuit
