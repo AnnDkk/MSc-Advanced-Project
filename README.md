@@ -155,7 +155,7 @@ I rearranged my thinking based on the previous research. Inspired by the color b
 </div> 
 </div> 
 
-I use the peculiarities of polarized light to simulate the colors seen by a four-color vision creature in the "smart eye." Through the full spectrum light simulation of the sun, and then through the polarizer filter can be filtered light color display on the plastic items. The experiencers need to simulate the color-blind perspective to explore how this phenomenon packaged as perfect AI comes into being. Finally, the experiencers need to create their own art with tape and transparent pvc sheets from the perspective of color blindness. Put it in the "smart eye" and you can see the unique effect.
+I use the peculiarities of polarized light to simulate the colours seen by a four-color vision creature in the "smart eye." Through the full spectrum light simulation of the sun, and then through the polarizer filter can be filtered light color displayed on the plastic items. The experiencers need to simulate the color-blind perspective to explore how this phenomenon packaged as perfect AI comes into being. Finally, the experiencers need to create their own art with tape and transparent PVC sheets from the perspective of color blindness. Put it in the "smart eye" and you can see the unique effect.
  
 
 </div> 
@@ -164,6 +164,24 @@ I use the peculiarities of polarized light to simulate the colors seen by a four
 </div> 
 
 ## Open “Black Box”
+
+Through the study of the polarizer, I found that in addition to being used in corrective glasses for color blindness, it also appears in many things we use daily in our life. Polarizers play a huge role in the display screens of electronic devices such as cameras and computers. So I used some old Apple iPods to try to disassemble them, which is how I opened the "black box" in my discovery project.
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/19.png" width="600" height="450">
+</div> 
+
+I split up four iPods in total. There are two models, ipod2 and ipod4. There are obvious differences in the internal structure of the screen between the two models. The development of technology has gradually changed the screen from the oldest LCD screen that also needed backlight to today's integrated OLED screen. I failed in my attempt at an iPod4 with both a touch screen and an internal screen because I wanted to find the polarizer and split it out. Only one iPod2 was successful and could be used as a final installation effect.
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/20.png" width="450" height="200">
+</div> 
+
+> The LED screen itself is unable to display color, but by attaching a polarizing film can make its original display of color appears.
+
+Based on this work, I enriched my project content. An iPod that can't display color on its screen is a flawed, imperfect machine. These devices, which have been eliminated by modern technology, also represent the cutting edge of technology in its heyday. But the complexity of today's technology has held people back from exploring its roots. So I wanted to use this feature to match my "smart eye" to make a "smart creative brain". I want to make a special magnifying glass with polarizer and connect the sensor. When the experiencer uses a magnifying glass to explore, they can see a beautiful picture of the imperfect machine, and the picture will change according to how far the experiencer has explored. This process also mirrors what I discussed earlier - "Open the black box and you'll find out more".
 
 ##  Working Process
 
