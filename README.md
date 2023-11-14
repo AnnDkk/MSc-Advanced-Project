@@ -4,7 +4,9 @@ Final Viedo：
 
 
 ## Introduction
-In this project, I created an experiential device game —— Open the "Black Box", inspired by Deep Dream and the world in the eyes of people with colour blindness. In the game, I made a carefully packaged "Stupid AI" —— "A Blind Eye" —— as the main part of the game. The experientier needs to go through a series of explorations and research to obtain the "creative gems" in the "blind eye" and gain a new understanding of creativity. I hope the experiencer can realize that the inherent development thought of blindly pursuing perfection limits people's creativity by exploring this experience game. Especially in the era of rapid technological development, People should not only refrain from fearing the perfectly packaged technology and ideas behind the AI mask but should instead open this 'Black Box' to explore and study. Perhaps what is defined as stupid and imperfect can also be a source of new creativity.
+In this project, I developed an experiential game device titled "Open the Black Box," drawing inspiration from Deep Dream and the perspective of individuals with colour blindness. The game features a meticulously crafted "Stupid AI" called "An Intelligent Eye" as its central element. Participants embark on a journey of exploration and research within the "Intelligent Eye" to uncover "creative gems" and gain a fresh perspective on creativity.
+
+The goal is for participants to realize that the ingrained notion of blindly pursuing perfection can stifle creativity. Through this experiential game, especially in an era of rapid technological advancement, individuals are encouraged not to fear the seemingly flawless technology and ideas concealed behind the AI facade. Instead, they are urged to open the 'Black Box' to explore and study. It emphasizes that what may be labelled as stupid and imperfect could potentially serve as a wellspring of new creativity.
 
 <div align=center>
 <img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/final.jpg" width="500" height="250">
