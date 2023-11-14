@@ -230,11 +230,38 @@ I subsequently crafted a more precise prototype of the lightbox, incorporating p
 
 > Samples were created by randomly winding PVC sheets using Scotch tape. These samples were then placed in the eye through a polarizer and light to observe the creation of stunning color art.
 
+### Laser Cutting
 
+The eye's pupil position will be designed as a rotatable area, incorporating a polarizer. This component can be manually rotated by the user to change the color of the displayed work in the eyes. Consequently, I designed the mechanical part, intending to leverage the size and thickness differences of the acrylic plate to create an empty ring that can rotate.
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/IMG_8732.jpg" width="700" height="280">
+</div> 
+
+> I scheduled an appointment to use the school's laser cutting instrument to cut the components, and I assembled them according to my design.
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/%E5%9B%BE%E5%B1%82%202.png" width="700" height="360">
+</div> 
+
+</div> 
+
+> Rotating through this structure enables the user to adjust the angle difference between the polarizer and the one in front of the illumination lamp. This angle difference affects the transmittance and colour of the transmitted light, allowing the produced samples to exhibit various colour changes.
+
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/IMG_8734.png" width="600" height="200">
+</div> 
 
 ### Arduino & Circuit
+
+
+
+
 ### Challenge
-### Laser Cutting
 ### Touch Designer & Code Testing
 ### Appearance & Content Setting
 
