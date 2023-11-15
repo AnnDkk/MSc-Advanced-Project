@@ -281,6 +281,43 @@ To facilitate the blinking effect interaction with humans, I opted to integrate 
 
 #### Touch Designer & Code Testing（Brain）
 
+To enhance the visual aspect of the "smart brain" section, I inserted the desired movie into Touch Designer. For additional effects, I incorporated images to identify and generate layers of particles based on their contours and boundaries. Subsequently, I established a connection with Arduino and acoustic sensors to facilitate further interaction.
+> Particles are generated from the input image using the noise element. The colour of the particles is then transformed based on noise2.
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/31.png" width="700" height="200">
+</div> 
+
+> The colourcurves component is employed to code and schedule three-channel curves, managing RGB colour. This allows for the customization of the particle release colour effect based on the defined colour curves.
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/33.png" width="700" height="200">
+</div> 
+
+> In the series of components linked to Arduino, I introduced two additional math components (2, 3) to independently regulate particle behavior. When ultrasonic recognition indicates a long distance, the particles remain stationary and appear in black and white. Conversely, when the sound wave identifies a closer distance, the particles dynamically respond by spreading further and undergoing a color change.
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/32.png" width="800" height="200">
+</div> 
+
+> In the Arduino section, it is only necessary to define the recognition range to generate the desired effect, and then convert and print the data.
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/td.png" width="300" height="300">
+</div> 
+
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/td2.png" width="800" height="360">
+</div> 
+
+After debugging, the sensor is securely attached to a specialized magnifying glass. When individuals pick up the magnifying glass and explore, the video displayed on the screen changes in response to their proximity to the magnifying glass. This visualization effectively mirrors the shifts in the experimenter's mindset as they delve into exploring the "Black Box".
+
 ### Challenge
 
 
