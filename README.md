@@ -382,8 +382,24 @@ While integrating the two pieces of code, I encountered instability when using t
 
 
 ## Optimize
+During the preliminary test of the overall process, challenges surfaced in the experience setup. Participants tended to lose focus during exploration, often becoming deeply absorbed in specific topics, leading to a tendency to abandon the preceding process. Consequently, understanding my design intentions after the experience became unclear. Following discussions with the teacher, the overall experience design underwent iterative modifications.
 
-## Discussion
-#### Update & Future Work
+> I conceptualized the entire experience as a game—mining creative gems. This approach mitigates the initial search effort by seamlessly integrating clues throughout the experience. Participants engage in the exploration, uncovering the mystery of the creative gem. While creative gems reside within the "smart eye," individuals must find and touch hidden NFC chips to acquire both real and deceptive clues.
+> By following the clues through a special magnifying glass, participants reach the creative brain, revealing the core digital key. This key, in turn, provides the necessary tools to craft gems from the staff. Throughout the clue exploration, participants gradually discover the truth that this "AI" is stupid. But people can still create their own works of art through its imperfections!
+
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/IMG_2226.jpg" width="850" height="300">
+</div> 
+
+
+## Update & Future Work
+Following tests in exhibitions and other activities, I've identified areas for potential improvements in the two data monitors for future development. The current instability of the acoustic sensor can lead to slow device reactions and stalls. 
+For the eye part detector, I am considering experimenting with an infrared detector, which may enhance the speed of detecting information from people close to the eyes.Concerning the creative aspect of my brain, I am contemplating the implementation of a brainwave sensor for real-time monitoring. This could offer a more intuitive representation of the brain's response to surprise during puzzle-solving.
+
+In the process of playing this game, most players think they are surprised by the effect of such a simple machine in the end. And they are willing to open the black box in their lives, perhaps the next broken phone or computer. I think I've achieved my goal, which is a good start for all of experiencer.
+As my enthusiasm for this topic grows, I am increasingly motivated to explore the reinvention of things labeled as "bad" and deemed obsolete by big data. This exploration may provide a specialized avenue for generating new ideas. Additionally, I am delving into the field of artificial intelligence to explore the collaborative creativity between AI and humans. My hope is that, in the near future, people will genuinely experience the power of technology in helping us break out of cocoons, rather than remaining stagnant in the same position.
+
 
 ## Achievement
