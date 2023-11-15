@@ -332,9 +332,54 @@ While integrating the two pieces of code, I encountered instability when using t
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/35.png" width="750" height="360">
 </div> 
 
-
-
 ## Appearance & Content Setting
+> Make light boxes (attach electrical tape all inside to avoid safety hazards, and also create black space to reduce reflection as much as possible)
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/41.png" width="750" height="230">
+</div> 
+
+> Make the 3D structure of the eyes (build the overall structure through the iron wire, and fill it with tinfoil. In order to fit the eyelid to the arc of the eyeball, wire is used to locate each inflexion point detail separately. In addition, thin slices of acrylic were cut to fix pupil depth and increase rigidity.
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/42.png" width="750" height="230">
+</div> 
+
+> After the structure is built, the servo test is carried out (to ensure that the weight of the eyelid is within the range of the servo can bear, and the blinking movement can be carried out without obstacles).
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/43.png" width="750" height="230">
+</div> 
+
+> Exterior fabrication (Covering the surface of the eye and brain structures with ultra-light clay. This material is the best fit for my installation in terms of quality and effect. In order to wrap the device in a technological style, I chose a variety of light threads in cyberpunk colors with tinfoil to create the appearance of the smart eye.
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/46.png" width="750" height="190">
+</div> 
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/45.png" width="750" height="160">
+</div> 
+
+> To make the creative brain look more artistic, I chose elements such as laser paper and twister sticks and ribbon to decorate the surface
+
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/47.png" width="750" height="190">
+</div> 
+
+> Exterior decoration display
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/44.png" width="750" height="580">
+</div> 
+
 
 ## Optimize
 
