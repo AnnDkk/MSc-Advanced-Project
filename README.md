@@ -203,7 +203,7 @@ However, there is a lack of a complete exploration process for the experiencer o
 
 </div> 
 <div align=center>
-<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/IMG_2226.jpg" width="800" height="280">
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/IMG_2226.jpg" width="850" height="300">
 </div> 
 
 > People initially use their smartphones to explore hidden NFC chips on white walls, obtaining game introductions and clues. Next, participants move to a color board where they scan NFC chips concealed within color blocks by answering questions related to colors, revealing clues for the next step. Subsequently, individuals engage in the installation experience, creating new artistic expressions.
@@ -319,6 +319,19 @@ To enhance the visual aspect of the "smart brain" section, I inserted the desire
 After debugging, the sensor is securely attached to a specialized magnifying glass. When individuals pick up the magnifying glass and explore, the video displayed on the screen changes in response to their proximity to the magnifying glass. This visualization effectively mirrors the shifts in the experimenter's mindset as they delve into exploring the "Black Box".
 
 ### Challenge
+While integrating the two pieces of code, I encountered instability when using the same acoustic sensor to control both the servos and particle effects. This frequently resulted in output disruptions, causing certain sections of the code to stall. Consequently, I addressed this issue by separately defining two acoustic sensors and deploying them to perform distance recognition in two different locations on the device.
+
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/36.png" width="600" height="360">
+</div> 
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/35.png" width="750" height="360">
+</div> 
+
 
 
 ## Appearance & Content Setting
