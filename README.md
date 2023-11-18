@@ -385,13 +385,20 @@ While integrating the two pieces of code, I encountered instability when using t
 During the preliminary test of the overall process, challenges surfaced in the experience setup. Participants tended to lose focus during exploration, often becoming deeply absorbed in specific topics, leading to a tendency to abandon the preceding process. Consequently, understanding my design intentions after the experience became unclear. Following discussions with the teacher, the overall experience design underwent iterative modifications.
 
 > I conceptualized the entire experience as a game—mining creative gems. This approach mitigates the initial search effort by seamlessly integrating clues throughout the experience. Participants engage in the exploration, uncovering the mystery of the creative gem. While creative gems reside within the "smart eye," individuals must find and touch hidden NFC chips to acquire both real and deceptive clues.
-> By following the clues through a special magnifying glass, participants reach the creative brain, revealing the core digital key. This key, in turn, provides the necessary tools to craft gems from the staff. Throughout the clue exploration, participants gradually discover the truth that this "AI" is stupid. But people can still create their own works of art through its imperfections!
-
+> Participants followed the cue to the creative brain and explored it through a special magnifying glass to obtain images of creative roses. These Creative Rose images can be exchanged to redeem the core tools used in crafting gems. Throughout the clue exploration, participants gradually discover the truth that this "AI" is stupid. But people can still create their own works of art through its imperfections!
 
 </div> 
 <div align=center>
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/IMG_2226.jpg" width="850" height="300">
 </div> 
+
+> Update and adjust the recognition effects in Touch Designer(Users can generate their own rose images through the interactive act of using a special magnifying glass)
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/66.png" width="700" height="200">
+</div> 
+
 
 
 ## Update & Future Work
