@@ -389,7 +389,7 @@ During the preliminary test of the overall process, challenges surfaced in the e
 
 </div> 
 <div align=center>
-<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/IMG_2226.jpg" width="850" height="300">
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/flow.jpg" width="850" height="380">
 </div> 
 
 > Update and adjust the recognition effects in Touch Designer(Users can generate their own rose images through the interactive act of using a special magnifying glass)
