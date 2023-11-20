@@ -263,6 +263,15 @@ The eye's pupil position will be designed as a rotatable area, incorporating a p
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/IMG_8734.png" width="600" height="200">
 </div> 
 
+### NFC content writing
+I wrote the true and false clues one by one into 8 NFC chips and pasted them into the whiteboard.
+
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/n2c.png" width="700" height="200">
+</div> 
+
 ### Arduino & Code & Touch Designer
 #### Servo (Blink effect)
 To facilitate the blinking effect interaction with humans, I opted to integrate the blinking eyelid control into a separate Arduino module. I employed two servos, synchronized to rotate simultaneously on both sides, controlling the sliding motion of the eyelid. For a lifelike response when individuals approach the "smart eye," it was crucial that the angles of the two servos were precisely complementary.To achieve this effect, I incorporated ultrasonic sensors to detect approaching individuals. When the acoustic return signal falls within the specified range, the servo receives the signal, initiating the movement while turning to a constant angle. Afterward, it remains in that position for approximately 1-2 seconds before automatically resetting. This setup ensures that the "smart eye" comes to life and begins blinking when someone approaches to explore its features.
@@ -391,6 +400,15 @@ During the preliminary test of the overall process, challenges surfaced in the e
 <div align=center>
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/flow.jpg" width="850" height="380">
 </div> 
+
+> Creating creative Gems
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/baoshi.png" width="600" height="300">
+</div> 
+
+
 
 > Update and adjust the recognition effects in Touch Designer(Users can generate their own rose images through the interactive act of using a special magnifying glass)
 
