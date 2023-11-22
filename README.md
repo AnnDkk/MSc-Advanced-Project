@@ -190,6 +190,22 @@ I split up four iPods in total. There are two models, ipod2 and ipod4. There are
 
 Based on this work, I enriched my project content. An iPod that can't display color on its screen is a flawed, imperfect machine. These devices, which have been eliminated by modern technology, also represent the cutting edge of technology in its heyday. But the complexity of today's technology has held people back from exploring its roots. So I wanted to use this feature to match my "smart eye" to make a "smart creative brain". I want to make a special magnifying glass with polarizer and connect the sensor. When the experiencer uses a magnifying glass to explore, they can see a beautiful picture of the imperfect machine, and the picture will change according to how far the experiencer has explored. This process also mirrors what I discussed earlier - "Open the black box and you'll find out more".
 
+## Design “Stupidity”
+I use the most common scotch tape in my life to "create" on PVC sheets. Through the particularity of the light and the light filtering property of the polarizer, the work is endowed with new colors and can see the above painting clearly. This process not only redefines the special creativity of these marginalized products, but also hopefully gives users a sense of the amazing effects of learning to use stupidity.
+
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/12132.png" width="600" height="200">
+</div> 
+
+
+
+
+
+
+
+
 ##  Working Process
 
 Combining all the concepts and research, I perfected the whole device. Through the "smart eye" people will see the diversity of things and new perspectives, perhaps imperfect is the beginning of a kind of innovation. Smart eyes are linked to smart brains. When people have eyes that can see, the ideas and ideas of the brain will also change. With the exploration of "opening the black box" again and again (special magnifying glass), the experiencer will visually see the change of the "intelligent creative brain". The whole device also reflects the cooperation of people's eyes and brains with machines, artificial intelligence and other technologies in the innovation process.
