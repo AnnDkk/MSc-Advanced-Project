@@ -1,6 +1,6 @@
 # MSc-Advanced-Project
 
-Final Viedo：
+Final Viedo：https://youtu.be/MlU4Rdsa8L0
 
 
 ## Introduction
@@ -9,7 +9,7 @@ In this project, I developed an experiential game device titled "Open the Black 
 The goal is for participants to realize that the ingrained notion of blindly pursuing perfection can stifle creativity. Through this experiential game, especially in an era of rapid technological advancement, individuals are encouraged not to fear the seemingly flawless technology and ideas concealed behind the AI facade. Instead, they are urged to open the 'Black Box' to explore and study. It emphasizes that what may be labelled as stupid and imperfect could potentially serve as a wellspring of new creativity.
 
 <div align=center>
-<img src="https://github.com/AnnDkk/Creative-Making-Advanced-Physical-Computing/blob/main/image/final.jpg" width="500" height="250">
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/WechatIMG31955.jpg" width="800" height="550">
 </div>
 
 ## Inspiration
@@ -433,6 +433,23 @@ During the preliminary test of the overall process, challenges surfaced in the e
 <img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/66.png" width="700" height="200">
 </div> 
 
+## User experience
+> Ten participants took part in the experience and produced ten completely different creative works.
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/IMG_9009.jpg" width="700" height="350">
+</div> 
+Users are curious and interested in the experience. And they will better understand the meaning of the project after creating their own works.
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/999.png" width="700" height="250">
+</div> 
+
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/888.png" width="700" height="200">
+</div> 
 
 
 ## Update & Future Work
@@ -444,3 +461,12 @@ As my enthusiasm for this topic grows, I am increasingly motivated to explore th
 
 
 ## Achievement
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/hao.png" width="800" height="280">
+</div> 
+
+</div> 
+<div align=center>
+<img src="https://github.com/AnnDkk/MSc-Advanced-Project/blob/main/blog%20image/feng.jpg" width="800" height="600">
+</div> 
